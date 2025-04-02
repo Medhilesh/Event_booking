@@ -1,16 +1,16 @@
 # Event_booking
 <p align="center">
-  <img src="https://i.imgur.com/your_image_1.png" alt="Image 1" width="300">
-  <img src="https://i.imgur.com/your_image_2.png" alt="Image 2" width="300">
+  <img src="https://i.postimg.cc/d71DNrYj/Screenshot-2025-04-02-095712.png" alt="Screenshot 1" width="45%">
+  <img src="https://i.postimg.cc/0Kd8yyvN/Screenshot-2025-04-02-095904.png" alt="Screenshot 2" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/your_image_3.png" alt="Image 3" width="300">
-  <img src="https://i.imgur.com/your_image_4.png" alt="Image 4" width="300">
+  <img src="https://i.postimg.cc/Thr29CbX/Screenshot-2025-04-02-095912.png" alt="Screenshot 3" width="45%">
+  <img src="https://i.postimg.cc/JHWr8B9g/Screenshot-2025-04-02-095948.png" alt="Screenshot 4" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/your_image_5.png" alt="Image 5" width="300">
+  <img src="https://i.postimg.cc/SJhRFw4s/Screenshot-2025-04-02-100106.png" alt="Screenshot 5" width="45%">
 </p>
 
 ## Description:
