@@ -1,10 +1,13 @@
 # Event_booking
-![Screenshot 1](https://i.postimg.cc/d71DNrYj/Screenshot-2025-04-02-095712.png)
-![Screenshot 3](https://i.postimg.cc/Thr29CbX/Screenshot-2025-04-02-095912.png)
-![Screenshot 5](https://i.postimg.cc/SJhRFw4s/Screenshot-2025-04-02-100106.png)
-![Screenshot 2](https://i.postimg.cc/0Kd8yyvN/Screenshot-2025-04-02-095904.png)
-![Screenshot 4](https://i.postimg.cc/JHWr8B9g/Screenshot-2025-04-02-095948.png)
+<img src="https://i.postimg.cc/d71DNrYj/Screenshot-2025-04-02-095712.png" alt="Screenshot 1" width="600">
 
+<img src="https://i.postimg.cc/0Kd8yyvN/Screenshot-2025-04-02-095904.png" alt="Screenshot 2" width="600">
+
+<img src="https://i.postimg.cc/Thr29CbX/Screenshot-2025-04-02-095912.png" alt="Screenshot 3" width="600">
+
+<img src="https://i.postimg.cc/JHWr8B9g/Screenshot-2025-04-02-095948.png" alt="Screenshot 4" width="600">
+
+<img src="https://i.postimg.cc/SJhRFw4s/Screenshot-2025-04-02-100106.png" alt="Screenshot 5" width="600">
 
 ## Description:
 
